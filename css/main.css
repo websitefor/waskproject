@@ -1022,3 +1022,367 @@ footer {
     width: 28px;
     height: 20px;
 }
+
+/* Responsive */
+
+@media (max-width: 1799px) {
+    .container {
+        max-width: 1440px;
+    }
+    .container-navbar {
+        padding: 0 120px 0 120px;
+    }
+    .picture-p {
+        font-size: 18px;
+    }
+    .picture-wrap {
+        gap: 45px;
+    }
+    .analysis-block2 {
+        width: 1300px;
+    }
+    .analysis-block2-wrapper {
+        width: 1133px;
+    }
+    .organizations-list {
+        gap: 45px;
+    }
+    .container-organizations {
+        gap: 35px;
+    }
+    .container-statistic1 {
+        width: 410px;
+        height: 386px;
+    }
+    .statistic1-line {
+        width: 315px;
+    }
+    .container-statistic1-one {
+        width: 330px;
+    }
+    .container-statistic1-two {
+        width: 330px;
+    }
+    .container-statistic1-h3 {
+        font-size: 20px;
+    }
+    .container-statistic2 {
+        width: 410px;
+        height: 386px;
+    }
+    .statistic2-percent1 {
+        font-size: 26px;
+        padding: 5px 0 0 5px;
+    }
+    .percent-one {
+        gap: 10px;
+    }
+    .statistic1-p {
+        font-size: 16px;
+        padding-top: 2px;
+    }
+    .statistic2-percent2 {
+        font-size: 26px;
+        padding: 5px 0 0 0px;
+        margin: 0 10px 30px 27px;
+    }
+    .statistic2-percent2-sp {
+        font-size: 12px;
+    }
+    .container-statistic2-h3 {
+        font-size: 20px;
+    }
+    .statistic2-line-two {
+        width: 215px;
+    }
+    .statistic2-line1 {
+        width: 40px;
+        height: 56px;
+    }
+    .statistic2-line2 {
+        width: 40px;
+        height: 81px;
+    }
+    .statistic2-line3 {
+        width: 40px;
+        height: 90px;
+    }
+    .statistic2-line4 {
+        width: 40px;
+        height: 129px;
+    }
+    .statistic2-line4-p {
+        top: 25%;
+        height: 64px;
+    }
+    .statistic2-line5 {
+        width: 40px;
+        height: 90px;
+    }
+    .statistic2-line6 {
+        width: 40px;
+        height: 56px;
+    }
+    .statistic2-line7 {
+        width: 40px;
+        height: 81px;
+    }
+    .statistic2-wrap{
+        margin: 8px 0 40px 25px;
+    }
+    .statistic2-wrap2 {
+        margin: 30px 0 0 25px;
+    }
+    .statistic2-line-one {
+        margin: 0 32px 0 30px;
+        width: 115px;
+    }
+    .container-statistic3 {
+        width: 410px;
+        height: 386px;
+    }
+    .container-statistic3-h3 {
+        font-size: 20px;
+        margin: 46px 0px 40px 35px;
+    }
+    .statistic3-line1 {
+        width: 335px;
+        margin: 0 0 15px 35px;
+    }
+    .statistic3-line2 {
+        width: 335px;
+        margin: 0 0 7px 35px;
+    }
+    .statistic3-line3 {
+        width: 335px;
+        margin: 0 0 7px 35px;
+    }
+    .statistic3-line4 {
+        width: 335px;
+        margin: 0 0 18px 35px;
+    }
+    .statistic3-line5 {
+        margin: 0 0 17px 35px;
+    }
+    .line6-one {
+        width: 106px;
+        padding-top: 6px;
+        margin: 0 15px 0 35px;
+    }
+    .line6-one-p {
+        font-size: 14px;
+    }
+    .line6-two {
+        width: 106px;
+        padding-top: 6px;
+    }
+    .line6-two-p {
+        font-size: 14px;
+    }
+    .line6-three {
+        width: 120px;
+    }
+    .line6-three-p {
+        font-size: 14px;
+        padding-top: 1px;
+    }
+    .social-container {
+        margin-left: 105px;
+    }
+    .container-statistics {
+        padding-left: 50px;
+    }
+
+}
+
+@media (max-width: 1550px) {
+    .container {
+        max-width: 1300px;
+    }
+    .container-competitor {
+        padding: 0;
+    }
+    .navbar-menu {
+        gap: 35px;
+    }
+    .navbar-brand {
+        margin-right: 45px;
+    }
+    .organizations-list {
+        gap: 45px;
+    }
+    .container-organizations {
+        gap: 35px;
+    }
+    .picture {
+        width: 85px;
+    }
+    .picture-wrap {
+        gap: 45px;
+    }
+    .picture-p {
+        font-size: 16px;
+    }
+    .analysis-block2 {
+        width: 1300px;
+    }
+    .analysis-block2-wrapper {
+        width: 1133px;
+    }
+    .container-statistics {
+        padding-left: 0;
+    }
+    .container-statistic1 {
+        width: 410px;
+        height: 386px;
+    }
+    .statistic1-line {
+        width: 315px;
+    }
+    .container-statistic1-one {
+        width: 330px;
+    }
+    .container-statistic1-two {
+        width: 330px;
+    }
+    .container-statistic1-h3 {
+        font-size: 20px;
+    }
+    .container-statistic2 {
+        width: 410px;
+        height: 386px;
+    }
+    .statistic2-percent1 {
+        font-size: 26px;
+        padding: 5px 0 0 5px;
+    }
+    .percent-one {
+        gap: 10px;
+    }
+    .statistic1-p {
+        font-size: 16px;
+        padding-top: 2px;
+    }
+    .statistic2-percent2 {
+        font-size: 26px;
+        padding: 5px 0 0 0px;
+        margin: 0 10px 30px 27px;
+    }
+    .statistic2-percent2-sp {
+        font-size: 12px;
+    }
+    .container-statistic2-h3 {
+        font-size: 20px;
+    }
+    .statistic2-line-two {
+        width: 215px;
+    }
+    .statistic2-line1 {
+        width: 40px;
+        height: 56px;
+    }
+    .statistic2-line2 {
+        width: 40px;
+        height: 81px;
+    }
+    .statistic2-line3 {
+        width: 40px;
+        height: 90px;
+    }
+    .statistic2-line4 {
+        width: 40px;
+        height: 129px;
+    }
+    .statistic2-line4-p {
+        top: 25%;
+        height: 64px;
+    }
+    .statistic2-line5 {
+        width: 40px;
+        height: 90px;
+    }
+    .statistic2-line6 {
+        width: 40px;
+        height: 56px;
+    }
+    .statistic2-line7 {
+        width: 40px;
+        height: 81px;
+    }
+    .statistic2-wrap{
+        margin: 8px 0 40px 25px;
+    }
+    .statistic2-wrap2 {
+        margin: 30px 0 0 25px;
+    }
+    .statistic2-line-one {
+        margin: 0 32px 0 30px;
+        width: 115px;
+    }
+    .container-statistic3 {
+        width: 410px;
+        height: 386px;
+    }
+    .container-statistic3-h3 {
+        font-size: 20px;
+        margin: 46px 0px 40px 35px;
+    }
+    .statistic3-line1 {
+        width: 335px;
+        margin: 0 0 15px 35px;
+    }
+    .statistic3-line2 {
+        width: 335px;
+        margin: 0 0 7px 35px;
+    }
+    .statistic3-line3 {
+        width: 335px;
+        margin: 0 0 7px 35px;
+    }
+    .statistic3-line4 {
+        width: 335px;
+        margin: 0 0 18px 35px;
+    }
+    .statistic3-line5 {
+        margin: 0 0 17px 35px;
+    }
+    .line6-one {
+        width: 106px;
+        padding-top: 6px;
+        margin: 0 15px 0 35px;
+    }
+    .line6-one-p {
+        font-size: 14px;
+    }
+    .line6-two {
+        width: 106px;
+        padding-top: 6px;
+    }
+    .line6-two-p {
+        font-size: 14px;
+    }
+    .line6-three {
+        width: 120px;
+    }
+    .line6-three-p {
+        font-size: 14px;
+        padding-top: 1px;
+    }
+    .social-container {
+        margin-left: 105px;
+    }
+
+}
+
+@media (max-width: 1450px) {
+    .container {
+        max-width: 1220px;
+    }
+    .container-competitor {
+        padding: 0;
+    }
+    .navbar-menu {
+        gap: 5px;
+    }
+
+}
