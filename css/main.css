@@ -997,28 +997,24 @@ footer {
 }
 
 .icon-in {
-    position: relative;
     width: 24px;
     height: 24px;
     padding-top: 4px;
 }
 
 .icon-fb {
-    position: relative;
     width: 24px;
     height: 23.85px;
     padding-top: 4px;
 }
 
 .icon-tw {
-    position: relative;
     width: 24px;
     height: 19.5px;
     padding: 4px;
 }
 
 .icon-yt {
-    position: relative;
     width: 28px;
     height: 20px;
 }
